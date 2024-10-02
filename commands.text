@@ -1,2 +1,9 @@
 Les  commandes que j'ai utilisé: 
 
+git init
+git clone
+git status
+git push --all
+git branch
+git commit -m
+git merge m_branche
