@@ -5,7 +5,7 @@ import { factorial } from "./code.js";
 /** Run npm i mocha chai to install mocha and chai */
 /** Run npx mocha your.test.file to run */
 describe("Factorial tests", function(){
-    it("should return 125 if n = 5", function() {
+    it("should return 120 if n = 5", function() {
         expect(factorial(5)).to.eq(120);
     });
 
