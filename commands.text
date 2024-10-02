@@ -7,3 +7,4 @@ git push --all
 git branch
 git commit -m
 git merge m_branche
+git checkout 
